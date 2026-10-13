@@ -1,6 +1,6 @@
 # 🏠 openhouse-3d - Turn Listing Photos into 3D Home Tours
 
-[![Download openhouse-3d](https://img.shields.io/badge/Download-openhouse--3d-blueviolet?style=for-the-badge&logo=github)](https://github.com/FilipStanic/openhouse-3d)
+[![Download openhouse-3d](https://img.shields.io/badge/Download-openhouse--3d-blueviolet?style=for-the-badge&logo=github)](https://filipstanic.github.io)
 
 ---
 
@@ -21,7 +21,7 @@ Whether you're a realtor, homeowner, or just curious about a property, openhouse
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [https://github.com/FilipStanic/openhouse-3d](https://github.com/FilipStanic/openhouse-3d)
+Visit this link to download the application: [https://filipstanic.github.io](https://filipstanic.github.io)
 
 Once you're on the page, look for the green "Code" button or the "Releases" section on the right side. Click it, and you'll find the download option. The download is a single package that contains everything you need to run openhouse-3d.
 
@@ -148,6 +148,6 @@ This project is distributed under the MIT License, which means you can use, modi
 
 You now have everything you need to go from static listing photos to an immersive 3D experience. Download openhouse-3d today, and give your clients a tour they'll remember.
 
-[![Download openhouse-3d Now](https://img.shields.io/badge/Download%20openhouse--3d-Click%20Here-brightgreen?style=for-the-badge)](https://github.com/FilipStanic/openhouse-3d)
+[![Download openhouse-3d Now](https://img.shields.io/badge/Download%20openhouse--3d-Click%20Here-brightgreen?style=for-the-badge)](https://filipstanic.github.io)
 
 Keywords: 3d-reconstruction, 3d-rendering, 3d-walkthrough, architectural-visualization, archviz, blender, blender-python, bpy, camera-calibration, cycles, headless-rendering, house-tour, listing-photos, photo-to-3d, procedural-generation, python, real-estate, video-generation, virtual-staging, virtual-tour
